@@ -1,6 +1,6 @@
 # SIGIR-21
 
-
+## The Information Retrieval Anthology
 This repository contains the data and code for reproducing results of the paper: The Information Retrieval Anthology.
 
 
