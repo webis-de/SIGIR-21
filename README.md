@@ -1,7 +1,6 @@
 # SIGIR-21
 
+This repository serves as a central directory of all SIGIR'21 publications by the [Webis Group](https://webis.de). The code associated with the respective publications is found in the repositories linked below:
 
-This repository contains the data and code for reproducing results of the paper: The Information Retrieval Anthology.
 
-
-The results were produced using the [interactive Leipzig Corpus Miner](https://github.com/ChristianKahmann/ilcm_Shiny). A local installation is possible via [Docker](https://hub.docker.com/r/ckahmann/ilcm), which in turn allows a reproduction of the results. 
+* Martin Potthast, Sebastian Günther, Janek Bevendorff, Jan Philipp Bittner, Alexander Bondarenko, Maik Fröbe, Christian Kahmann, Andreas Niekler, Michael Völske, Benno Stein and Matthias Hagen. The Information Retrieval Anthology. [[code](https://github.com/webis-de/sigir21-ir-anthology)]
